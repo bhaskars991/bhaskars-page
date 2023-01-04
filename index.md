@@ -12,7 +12,7 @@
 <img src="images/ds2.png?raw=true"/>
 
 ---
-[Analysis of Weather Disasters](http://example.com/)
+[Analysis of Weather Disasters](https://www.kaggle.com/code/bhaskarsrinivasan/disasters)
 <img src="images/ds3.png?raw=true"/>
 
 ---
