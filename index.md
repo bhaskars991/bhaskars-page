@@ -8,7 +8,7 @@
 <img src="images/ds1.png?raw=true"/>
 
 ---
-[Forecasting Store Sales](/pdf/sample_presentation.pdf)
+[Forecasting Store Sales](https://www.kaggle.com/code/bhaskarsrinivasan/storesalesforcasting)
 <img src="images/ds2.png?raw=true"/>
 
 ---
