@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Kaggle Projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting House Prices](https://www.kaggle.com/code/bhaskarsrinivasan/houseprices2)
+<img src="images/ds1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Forecasting Store Sales](/pdf/sample_presentation.pdf)
+<img src="images/ds2.png?raw=true"/>
+
+---
+[Analysis of Weather Disasters](http://example.com/)
+<img src="images/ds3.png?raw=true"/>
 
 ---
 
