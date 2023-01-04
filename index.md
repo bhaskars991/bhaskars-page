@@ -4,7 +4,7 @@
 
 ### Kaggle Projects 
 
-<p style="font-size:11px">[Predicting House Prices](https://www.kaggle.com/code/bhaskarsrinivasan/houseprices2)
+[Predicting House Prices](https://www.kaggle.com/code/bhaskarsrinivasan/houseprices2)
 <img src="images/ds1.png?raw=true"/>
 
 ---
