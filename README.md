@@ -1,6 +1,6 @@
 ## Hi, Welcome to Bhaskar's Page!
 
-<img src="images/opensea3.png?raw=true"/>
+<img src="images/mtnrange.jpg?raw=true"/>
 
 I love to build software products with modern technology stacks. To accomplish this, I work with the software team to improve communication and responsibility within the team. With measured steps towards quality releases, I have been able to create high quality software products. 
 
