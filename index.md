@@ -4,9 +4,9 @@
 
 ### Kaggle Projects 
 
-My implmentation of interesting projects from Kaggle.
+<h2>My implmentation of interesting projects from Kaggle.<h2>
 
-Predicting house prices with deep learning model. 
+<h2>Predicting house prices with deep learning model.<h2>
 [View on Github](https://www.kaggle.com/code/bhaskarsrinivasan/houseprices2)
 <img src="images/ds1.png?raw=true"/>
 
