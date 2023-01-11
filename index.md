@@ -4,19 +4,22 @@
 
 ### Kaggle Projects 
 
-<h2>My implmentation of interesting projects from Kaggle.<h2>
+My implmentation of interesting projects from Kaggle
 
-<h2>Predicting house prices with deep learning model.<h2>
+<b>Predicting house prices with deep learning model.</b>
+
 [View on Github](https://www.kaggle.com/code/bhaskarsrinivasan/houseprices2)
 <img src="images/ds1.png?raw=true"/>
 
 ---
-Forecasting store sales with deep learning. 
+<b>Forecasting store sales with deep learning.</b>
+
 [View on Github](https://www.kaggle.com/code/bhaskarsrinivasan/storesalesforcasting)
 <img src="images/ds2.png?raw=true"/>
 
 ---
-An analysis of weather disasters from the Sizties.
+<b>An analysis of weather disasters from the Sizties.</b>
+
 [View on Github](https://www.kaggle.com/code/bhaskarsrinivasan/disasters)
 <img src="images/ds3.png?raw=true"/>
 
