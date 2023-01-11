@@ -1,5 +1,7 @@
 ## Hi, Welcome to Bhaskar's Page!
 
+<img src="images/opensea.jftf?raw=true"/>
+
 I love to build software products with modern technology stacks. To accomplish this, I work with the software team to improve communication and responsibility within the team. With measured steps towards quality releases, I have been able to create high quality software products. 
 
 I have enjoyed many senior level positions in my career as a developer, architect, technical program manager and engineering manager These experiences have taught me the following about myself. 
