@@ -1,4 +1,4 @@
-## Hi, Welocme to Bhaskar's Page!
+## Hi, Welcome to Bhaskar's Page!
 
 I love to build software products with modern technology stacks. To accomplish this, I work with the software team to improve communication and responsibility within the team. With measured steps towards quality releases, I have been able to create high quality software products. 
 
