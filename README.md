@@ -1,51 +1,9 @@
-## Developer Portfolio Landing Page Template
+## Hi, Welocme to Bhaskar's Page!
 
-### Introduction
+I love to build software products with modern technology stacks. To accomplish this, I work with the software team to improve communication and responsibility within the team. With measured steps towards quality releases, I have been able to create high quality software products. 
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+I have enjoyed many senior level positions in my career as a developer, architect, technical program manager and engineering manager These experiences have taught me the following about myself. 
 
-<img src="images/demo.gif?raw=true"/>
+I can successfully lead and grow development team from 5 to 50 engineers. I excel at the execution of big ideas shaping the new product with the given resource and funding constraints. I like to work with data to guide my decisions. 
 
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
-
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Roadmap
-
-See the [open issues](https://github.com/evanca/quick-portfolio/issues) for a list of proposed features (and known issues).
-___
-
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+I drive myself to be a better, more refined person every day. I am constantly learning because the world of software development is rapidly changing. I like to approach problems from a customer perspective. I stay calm on stormy days and focus on making good decisions..
